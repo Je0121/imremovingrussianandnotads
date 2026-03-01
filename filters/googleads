@@ -1,0 +1,11 @@
+! Google Ads
+! ---
+! Youtube (elements)
+youtube.com##+js(set-constant.js, ytInitialPlayerResponse.adPlacements, undefined)
+youtube.com##ytd-rich-item-renderer:has(ytd-ad-slot-renderer):remove()
+! Domains
+||pagead2.googlesyndication.com$xhr,image,frame,script
+||pagead2.googleadservices.com$xhr,image,frame,script
+||adtrafficquality.google^$xhr
+||adservice.google.com$xhr,image,frame,script
+||afs.googlesyndication.com$xhr,image,frame,script
