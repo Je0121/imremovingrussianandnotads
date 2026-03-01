@@ -1,0 +1,95 @@
+ya.*,yandex.*##.Distribution
+ya.*,yandex.*##[style="--height-ratio:8.088888888888889"]
+ya.*,yandex.*##.main-home-banner
+ya.*##.body__feed-wrapper
+ya.*,yandex.*##li[data-type="nav"][data-suggest-counter*="safecl"]
+ya.*,yandex.*##div[data-type="nav"][data-suggest-counter*="safecl"]
+||avatars.mds.yandex.net/get-direct/$image,media
+! Yandex Kartinki
+||clstorage.net^$frame
+||storage.mds.yandex.net/get-bstor/$image,media
+ya.*,yandex.*##div.ImagesViewer-SidebarAdv
+! Yandex Ads
+##[class*="rsya"]
+##[id*="rsya"]
+##[class*="rtb"]
+##[id*="rtb"]
+howdyho.net#@#[class*="rsya"]
+howdyho.net#@#[id*="rsya"]
+howdyho.net#@#[class*="rtb"]
+howdyho.net#@#[id*="rtb"]
+||yandex.*/ads/$image,media,xhr,script
+||yabs.yandex.ru/count/*$image
+||avatars.mds.yandex.net/get-direct-picture/*$image
+||avatars.mds.yandex.net/get-direct/*$image
+||avatars.mds.yandex.net/get-vh/*$image
+! Yandex Maps
+yandex.*##[data-ssr-uid="128-3"]
+yandex.*##[data-ssr-uid="4-3"]
+! Yandex Realty
+yandex.*,ya.*##.creative
+||yastatic.net^$frame
+yandex.*,ya.*##iframe[src*="yastatic.net"]
+yandex.*,ya.*##.AdfoxBanner
+! Yandex Market
+market.yandex.*###\/content\/page\/fancyPage\/fomoPopup
+market.yandex.*##[data-apiary-widget-name="@monetize/MadvHeaderPromo"]
+||media-adv.market.yandex.*$xhr
+||yastatic.net/*/*Adv.js$all
+||avatars.mds.yandex.net/get-market-adv/$image,media
+market.yandex.*##[data-apiary-widget-name="@monetize/HeroBannersCarousel"]
+market.yandex.*###\/content\/header\/header\/balanceBadge
+market.yandex.*##._219r4
+market.yandex.*##[data-apiary-widget-name="@marketfront/RecomMediaAdv"]
+! Yandex Weather
+yandex.*##[class*="promo"]
+||static-storage.net^$frame,image,media
+yandex.*###money-main
+yandex.*##[style="--money-padding:10px"]
+yandex.*##[id*="adv"]
+yandex.*##.placeholder
+mail.yandex.*##[class*="portal"]
+mail.yandex.*##[data-testid="page-layout_right-column_container_v1"]
+mail.yandex.*#@#[data-testid="orb-global-bar-service-list"]
+! Yandex Disk
+disk.yandex.*##.InfoSpace_expanded.InfoSpace_notanimation.InfoSpace_discount.InfoSpace.Link
+! Yandex Realty
+realty.yandex.*##[class*="promo"]
+! Kinopoisk
+kinopoisk.*##div.ReactModalPortal
+kinopoisk.*##iframe[src*="clstorage.net"]
+kinopoisk.*##[class*="banner"]
+! DL Ya with Alice
+yandex.*##.lc-body-image-offsets.lc-offsets
+yandex.*###fichi-grid > .lc-grid2-offsets.lc-offsets
+! Yandex Afisha
+afisha.yandex.*##.afisha-profit-banner
+afisha.yandex.*##[data-banner-id]
+afisha.yandex.*##[data-test-id="rubricPage.rubricAdfoxBranding.adfoxBanner"]
+afisha.yandex.*##.adfox
+! Yandex Music
+music.yandex.*###_r_2d_
+music.yandex.*###_r_2u_
+music.yandex.*###_r_2j_
+music.yandex.*##[class*="banner"]
+! Yandex Metrics / Analytics
+||mc.yandex.*$image,media,xhr,script
+||an.yandex.*$image,media,xhr,script
+||adfstat.yandex.*$image,media,xhr,script
+||static.yandex.net/market-export/_/uxfeedback/$frame,script,media,image
+||yastatic.net/s3/distribution/$frame,script
+||log.strm.yandex.*^$all
+||an.yandex.*$all
+||yastatic.net/pcode/adfox/*$xhr
+||yandex.*/portal/set/*$all
+||yastatic.net/naydex/yandex-portal/*$script
+||ya.*/suggest/ad-rerequest-ya.cgi$xhr
+||yandex.*/clck/$all
+||ya.ru/clck/$all
+||yastatic.net/q/set/s/rsya-tag-users/*$script
+||yastatic.net/browser-updater/*$script
+||browser-updater.yandex.net^$script
+||payment-widget.plus.yandex.*^$script
+||yastatic.net/naydex/yandex-search/Jn7MC1I58/*$image
+! Ya Games
+yandex.*##.adv-focusable
