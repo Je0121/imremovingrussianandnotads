@@ -1,0 +1,7 @@
+! Other
+@@||vk.com/js/api/openapi.js$domain=howdyho.net
+@@||vk.com/dist/public/api/openapi.*.js$domain=howdyho.net
+@@||mc.yandex.*$domain=howdyho.net
+@@||top-fwz1.mail.ru$all
+@@||yandex.ru/ads/$all?domain=howdyho.net
+howdyho.net##.g-ads:style(opacity: 1.1e-11; pointer-events: none;)
