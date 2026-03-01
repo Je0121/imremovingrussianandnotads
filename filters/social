@@ -1,0 +1,21 @@
+! -----
+! VKONTAKTE
+vk.*##[data-testid="feed_apps_right_block"]
+||avatars.mds.yandex.net/get-direct/$image,media
+vk.*###ads_wrapper
+vk.*##.trg-b-banner-block
+vk.*##div[style="--vkui--size_border2x--regular: 0;"]
+vk.*##section[data-testid="videos_for_you_block_spa"]
+! Habr
+habr.com##div.banner-slider
+habr.com##div.sponsor-block
+! Pikabu
+pikabu.*##div.sidebar-block-links__footer
+pikabu.*##div.sidebar-block_border
+pikabu.*##div.sidebar-block_placeholder
+pikabu.*##section.feed-games-carousel
+pikabu.*##div.story__placeholders
+pikabu.*##article[data-author-id="2"]
+! Odnoklassniki
+ok.ru##.h-mod.__no-ava.__compact.js-video-scope.feed
+ok.ru##.fo4c_h
