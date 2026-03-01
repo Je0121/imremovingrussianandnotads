@@ -1,0 +1,29 @@
+# Mail.ru
+mail.ru###c1672019823558213646d
+mail.ru##.tv-widget
+mail.ru##.feed__content
+mail.ru##.feed__tabs
+mail.ru##.dac-hkjk-11a7yic.tabs-content
+mail.ru##div:matches-css(width: 240px)
+! Reklama na glavnoi
+mail.ru##div:matches-css(height: 90px)
+mail.ru##.tabs_overflow_hidden
+mail.ru##.widget__container:has(.horoscope)
+mail.ru##.widget__container:has(.social-widget)
+! Pochta Mail.ru
+e.mail.ru##div:matches-css(z-index: 102)
+e.mail.ru##.vEhF5Cg_vEhF5Uo.vEhF5Cg_vEhF5CG.vEhF5Cg
+||r.mradx.net^$image,media,xhr,script,frame,css
+||imgs2.imgsmail.ru/2promo/$redirect=noop.js
+||vk.com/dist/public/api/openapi.*.js$3p
+||mail.ru/tracker^$image,ping
+||xray.mail.ru/update$image,ping
+||rs.mail.ru$image
+||ad.mail.ru$frame,other,image
+||trk.mail.ru$image
+||counter.yadro.ru$image
+||ms.dzen.ru^$ping
+||r3.mail.ru$image
+||media-trend.mail.ru$xhr
+||an.mail.ru$image
+||reklama.mail.ru$image
