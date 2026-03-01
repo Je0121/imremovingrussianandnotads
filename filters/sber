@@ -1,0 +1,31 @@
+! ---- 
+! Rambler
+||cdn.dsp-rambler.ru/imp/$image,media
+rambler.ru##.xmrij
+rambler.ru##iframe
+rambler.ru##[src*="file.jsp"]
+rambler.ru##[data-banner-place-id]
+rambler.ru##.image-banner-place
+rambler.ru##[data-creative-oid]
+||mpx.rambler.ru$frame
+||img01.rambler.ru$frame
+rambler.ru##.r-2rsqp1cq
+rambler.ru##div[data-cerber*="banner"]
+||bs.serving-sys.ru$all
+rambler.ru##div[style="order:-1"]
+rambler.ru##div[id^=begun_block]
+rambler.ru##[aria-label="Реклама"]
+rambler.ru##[class*="banner"]
+rambler.ru##[style*="min-height"]
+! YooMoney
+yoomoney.ru##.theme-local-23ca1607-server.theme-local-23ca1607-client
+yoomoney.ru##.theme-local-0b08a15b-server.theme-local-0b08a15b-client
+yoomoney.ru##.css-q41osa.MuiBox-root > div
+! Samokat
+samokat.ru##.PromotionFeaturingsListSkeleton_root__ebjxY.SliderWithTitle_slider__mRQkh.Slider_slider___3Fle.swiper-free-mode.swiper-pointer-events.swiper-horizontal.swiper-initialized.swiper
+! SberZdorov'e
+sberhealth.*##.c5e89kt
+sberhealth.*##article.ptenb3m
+! 2GIS
+2gis.ru,2gis.by,2gis.kz##iframe
+2gis.ru,2gis.by,2gis.kz##._1d49581
