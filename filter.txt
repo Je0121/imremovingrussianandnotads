@@ -11,3 +11,4 @@
 !#include filters/sber
 !#include filters/social
 !#include filters/yandex
+!#include filters/general
