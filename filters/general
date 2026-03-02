@@ -1,0 +1,11 @@
+/pagead.js
+/ads*.js
+/*adv*.js
+/ads.js
+/interads.js
+##[id*="ads"]
+##[class*="ads"]
+##[id*="adv"]
+##[class*="adv"]
+##[id*="banner"]
+##[class*="banner"]
