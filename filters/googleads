@@ -9,3 +9,6 @@ youtube.com##ytd-rich-item-renderer:has(ytd-ad-slot-renderer):remove()
 ||adtrafficquality.google^$xhr
 ||adservice.google.com$xhr,image,frame,script
 ||afs.googlesyndication.com$xhr,image,frame,script
+! ---
+! Other
+##.adsbygoogle
